@@ -1,0 +1,5 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\AttributeKullanmak\AttributeKullanmak\bin\Debug\AttributeKullanmak.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\AttributeKullanmak\AttributeKullanmak\bin\Debug\AttributeKullanmak.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\AttributeKullanmak\AttributeKullanmak\bin\Debug\AttributeKullanmak.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\AttributeKullanmak\AttributeKullanmak\obj\Debug\AttributeKullanmak.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\AttributeKullanmak\AttributeKullanmak\obj\Debug\AttributeKullanmak.pdb
